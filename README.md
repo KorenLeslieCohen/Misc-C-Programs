@@ -3,7 +3,7 @@ Misc-C-Programs
 
 Miscellaneous C Programs
 
-This repository contains miscellaneous programs written using C, including:
+This repository contains miscellaneous programs written in C, including:
 
 FizzBuzz in C; and 
 
